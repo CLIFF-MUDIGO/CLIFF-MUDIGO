@@ -1,7 +1,7 @@
 HI, I'M CLIFF
 
 # 💫 About Me:
-🔭 I’m currently working  with React JS, Tailwind CSS, Javascript using them to build fun, creative Web Projects.<br>🌱 I’m currently learning more of React, ContextAPI , Firebase.<br>👯 I’m looking to collaborate on <br> 🤔 I’m looking for help with Junior Developer roles or Partnership with other young developers.<br> 💬 Ask me about ...<br> 📫 How to reach me: cmudigo5@gmail.com.<br>⚡ Fun fact: I like to Watch Movies, Travel and to ride motorbikes alot.
+🔭 I’m currently working  with <b>React JS,Tailwind CSS,Javascript using them to build fun,creative Web Projects.<b><br>🌱 I’m currently learning more of React, ContextAPI , Firebase.<br>👯 I’m looking to collaborate on <br> 🤔 I’m looking for help with Junior Developer roles or Partnership with other young developers.<br> 💬 Ask me about ...<br> 📫 How to reach me: cmudigo5@gmail.com.<br>⚡ Fun fact: I like to Watch Movies, Travel and to ride speedbikes alot.
 
 
 ## 🌐 Socials:
