@@ -1,7 +1,15 @@
 HI, I'M CLIFF
 
-# 💫 About Me:
-🔭 I’m currently working  with <b>React JS,Tailwind CSS,Javascript using them to build fun,creative Web Projects.</b><br>🌱 I’m currently learning <b>more of React, ContextAPI , Firebase.</b><br>👯 I’m looking forward to collaborate <b>with Junior Developer roles or Partnership with other young developers.</b><br> 💬 Ask me about ...<br> 📫 How to reach me: <b>cmudigo5@gmail.com.</b><br>⚡ Fun fact:<b> I like to Watch Movies, Travel and to ride speedbikes alot.</b>
+🔭 I'm currently immersed in the world of web development, harnessing the power of <b>React JS, Tailwind CSS, and JavaScript</b> for crafting engaging front-end experiences, while utilizing <b>Ruby on Rails</b> to construct robust back-end systems. These technologies are my tools of choice for weaving together imaginative and enjoyable web projects.
+
+🌱 My journey is a perpetual quest for knowledge, with my focus set on expanding my expertise in <b>React, ContextAPI, and Firebase</b>. Learning and growth are the guiding stars of my career.
+
+👯 I'm eagerly seeking opportunities to collaborate, whether it's by taking on <b>Junior Developer roles</b> or forging <b>partnerships with fellow young developers</b>. Together, we can bring our visions to life.
+
+💬 If you have any questions or simply want to chat, don't hesitate to reach out to me at <b>cmudigo5@gmail.com</b>. I'm always open to discussions on a wide range of topics.
+
+⚡ Fun fact: When I'm not immersed in code, you'll find me indulging in my passions, such as <b>watching movies, exploring new travel destinations, and embracing the thrill of speedbike rides</b>. Life is meant to be an exciting journey!
+
 
 
 ## 🌐 Socials:
