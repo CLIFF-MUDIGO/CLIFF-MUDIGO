@@ -29,3 +29,4 @@ HI, I'M CLIFF
 [![](https://visitcount.itsvg.in/api?id=CLIFF-MUDIGO&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://app.daily.dev/mudigo"><img src="https://api.daily.dev/devcards/50c521b2f8444159aee194d0201ac767.png?r=xzo" width="400" alt="cliff mudigo's Dev Card"/></a>
